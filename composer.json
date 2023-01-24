@@ -1,0 +1,11 @@
+{
+  "require": {
+    "wpackagist-plugin/automeme": "0.0.1"
+  },
+  "repositories": [
+    {
+      "type":"composer",
+      "url":"https://wpackagist.org"
+    }
+  ]
+}
