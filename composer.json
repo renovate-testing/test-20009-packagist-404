@@ -1,6 +1,6 @@
 {
   "require": {
-    "wpackagist-plugin/automeme": "0.0.1"
+    "wpackagist-plugin/automeme": "1.0"
   },
   "repositories": [
     {
